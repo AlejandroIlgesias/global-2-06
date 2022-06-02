@@ -1,1 +1,1 @@
-# global-2-06
+# Los comnetarios se encuentran todos dentro del código.
